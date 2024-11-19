@@ -29,6 +29,7 @@ def print_title(title):
     print("*" * (len(title) + 4))
 
 print_title("CozmoXcel")
+print("V1")
 time.sleep(0.5)
 print("""
 This process will always go through an update check, even if no update is available. 
